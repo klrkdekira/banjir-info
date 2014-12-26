@@ -1,0 +1,1034 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.611863", 
+                    "101.656967"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "FT004 Jalan Persekutuan Jeli-Gerik", 
+                "catitan": "", 
+                "id": "7649", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT004", 
+                "seksyen": "198.80 - 199.00", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.162069", 
+                    "101.964111"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Gua Musang - Jelawang - Dabong", 
+                "catitan": "", 
+                "id": "7215", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "D29", 
+                "seksyen": "KM 15.8 - ", 
+                "tarikh": "22/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.893699", 
+                    "101.939903"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Panglima Bayu-Rantau Panjang-Jeram Perdah", 
+                "catitan": "", 
+                "id": "6891", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT196", 
+                "seksyen": "km 11 - ", 
+                "tarikh": "17/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.664245", 
+                    "101.711609"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "FT004 Jalan Persekutuan Jeli Gerik", 
+                "catitan": "", 
+                "id": "7652", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT004", 
+                "seksyen": "212.700 - 212.900", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.954826", 
+                    "102.085648"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Pengkalan Rakit-Batu Karang", 
+                "catitan": "", 
+                "id": "6894", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "D185", 
+                "seksyen": "km 3 - ", 
+                "tarikh": "18/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Masuk sg. Ciku 7&8", 
+                "catitan": "", 
+                "id": "7173", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT1741", 
+                "seksyen": "5.3 - ", 
+                "tarikh": "22/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "6.130996", 
+                    "102.136459"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Chabang Empat/Meranti", 
+                "catitan": "", 
+                "id": "6920", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "D23", 
+                "seksyen": "8 - ", 
+                "tarikh": "18/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "6.160352", 
+                    "102.244949"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Kota Bharu-Pantai Cahaya Bulan", 
+                "catitan": "", 
+                "id": "7259", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT223", 
+                "seksyen": "3.1 - 5.3", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Sultan Yahya Petra ( Jalan Dalam Bandar)", 
+                "catitan": "", 
+                "id": "7247", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": " - ", 
+                "tarikh": "22/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Batu 30-Temangan", 
+                "catitan": "", 
+                "id": "7303", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "D16", 
+                "seksyen": "1.00 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Machang-Pangkal Meleret-Wakaf Bata-Kg. China", 
+                "catitan": "", 
+                "id": "7300", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "D17", 
+                "seksyen": "8.00 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "6.068865", 
+                    "102.036209"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Pasir Mas - Pohon Tanjong", 
+                "catitan": "", 
+                "id": "7712", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT260", 
+                "seksyen": "11 - ", 
+                "tarikh": "20/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Kelaweh -  Sungai Sat", 
+                "catitan": "", 
+                "id": "7307", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "D213", 
+                "seksyen": "1 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "4.732463", 
+                    "101.645508"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Lojing-Pos Blau-Kg. Kuala Betis", 
+                "catitan": "", 
+                "id": "7717", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT185", 
+                "seksyen": "58 - 135", 
+                "tarikh": "25/12/2014  ", 
+                "type": "Penutupan Jalan"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Guchil/Batu Balai/Simpang Tiga Pahi", 
+                "catitan": "", 
+                "id": "7305", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "D225", 
+                "seksyen": "0.2 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.427350", 
+                    "101.920166"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Jeli-Dabong", 
+                "catitan": "", 
+                "id": "7157", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT066", 
+                "seksyen": "18 - ", 
+                "tarikh": "22/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Pasir Puteh-Jeli-Gerik", 
+                "catitan": "", 
+                "id": "7490", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT004", 
+                "seksyen": "214 - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Penutupan Jalan"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "FT008-Jalan Kota Bharu-Kuala Krai-Gua Musang", 
+                "catitan": "", 
+                "id": "7491", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": "300 - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Lojing-Pos Blau-Kg. Kuala Betis", 
+                "catitan": "", 
+                "id": "7329", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT185", 
+                "seksyen": "118 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Jirat ( Jalan Dalam Bandar)", 
+                "catitan": "", 
+                "id": "7249", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "-", 
+                "seksyen": " - ", 
+                "tarikh": "22/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Kota Bharu-Kuala Krai-Gua Musang", 
+                "catitan": "", 
+                "id": "7436", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT008", 
+                "seksyen": "214 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Kota Bharu-Kuala Krai-Gua Musang", 
+                "catitan": "", 
+                "id": "7437", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT008", 
+                "seksyen": "225 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.204980", 
+                    "101.927719"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Gua Musang - Jelawang - Dabong", 
+                "catitan": "", 
+                "id": "7192", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "D29", 
+                "seksyen": "KM 47.5 - ", 
+                "tarikh": "22/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "4.770783", 
+                    "101.774597"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Lojing-Pos Blau-Kg. Kuala Betis", 
+                "catitan": "", 
+                "id": "7698", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT185", 
+                "seksyen": "116.1 - ", 
+                "tarikh": "25/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "4.605171", 
+                    "101.455994"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Lojing-Pos Blau-Kg. Kuala Betis", 
+                "catitan": "", 
+                "id": "7699", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT185", 
+                "seksyen": "59.5 - ", 
+                "tarikh": "25/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Kota Bharu-Kuala Krai-Gua Musang", 
+                "catitan": "", 
+                "id": "7291", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT008", 
+                "seksyen": "274.9 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "FT008 Jalan Kota Bharu-Kuala Krai-Gua Musang", 
+                "catitan": "", 
+                "id": "7494", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": "318 - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "D212 Jalan Sg. Mati-Kerawang", 
+                "catitan": "", 
+                "id": "7498", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": "4 - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Banggol Kulim (Jalan Dalam Pekan Rantau Panjang) Lokasi 2 KM 23", 
+                "catitan": "", 
+                "id": "7366", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "-", 
+                "seksyen": " - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "D210 Jalan Kg. Kemuning-Merkam", 
+                "catitan": "", 
+                "id": "7487", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": " - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Penutupan Jalan"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "D219 Jalan Paloh Rawa-Belukar Panjang", 
+                "catitan": "", 
+                "id": "7486", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": " - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "6.215988", 
+                    "102.081871"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Pengkalan Kubor  Kuala Jambu - Jalan Kesban", 
+                "catitan": "", 
+                "id": "7000", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT196", 
+                "seksyen": "2 - ", 
+                "tarikh": "20/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.631211", 
+                    "101.679520"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Pasir Puteh-Jeli-Gerik", 
+                "catitan": "", 
+                "id": "6866", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT004", 
+                "seksyen": "202 - 203", 
+                "tarikh": "17/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Kota Bharu-Kuala Krai-Gua Musang", 
+                "catitan": "", 
+                "id": "7489", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT008", 
+                "seksyen": "307 - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "D15 Jalan Pangkal Gong-Kemubu", 
+                "catitan": "", 
+                "id": "7488", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": "10 - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.164804", 
+                    "101.958618"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Gua Musang - Jelawang - Dabong ( Jambatan Sg. Stelu)", 
+                "catitan": "", 
+                "id": "7707", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "D29", 
+                "seksyen": "32 - ", 
+                "tarikh": "25/12/2014  ", 
+                "type": "Jambatan Rosak"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "6.138847", 
+                    "102.227440"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Pohon Tanjong - Pasir Pekan - Jalan Negeri D177", 
+                "catitan": "", 
+                "id": "7270", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": " - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.030754", 
+                    "102.562866"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Masuk Aring 8 dan 9", 
+                "catitan": "", 
+                "id": "7148", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT1743", 
+                "seksyen": "5 - ", 
+                "tarikh": "22/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.555719", 
+                    "102.201134"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Kota Bharu-Kuala Krai-Gua Musang", 
+                "catitan": "", 
+                "id": "7332", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT008", 
+                "seksyen": "327.5 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.251462", 
+                    "102.252014"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Sungai Sam Ke Dabong", 
+                "catitan": "", 
+                "id": "7331", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT066", 
+                "seksyen": "2.7 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.310024", 
+                    "102.280144"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Kota Bharu-Kuala Krai-Gua Musang", 
+                "catitan": "", 
+                "id": "7330", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT008", 
+                "seksyen": "292.75 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Lojing-Pos Blau-Kg. Kuala Betis", 
+                "catitan": "", 
+                "id": "7311", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT185", 
+                "seksyen": "KM 0.6 - ", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Pasir Puteh-Jeli-Gerik", 
+                "catitan": "", 
+                "id": "7310", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT004", 
+                "seksyen": "213.00 - 214.00", 
+                "tarikh": "23/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "D226 - Jalan Sg. Sok - Chucuh Puteri", 
+                "catitan": "", 
+                "id": "7492", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": "4 - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Dalam Bandar Kota Bharu", 
+                "catitan": "", 
+                "id": "7507", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": " - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "0.000000", 
+                    "0.000000"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "FT259 Jalan Sultan Ismail Petra", 
+                "catitan": "", 
+                "id": "7683", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": "2 - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.849643", 
+                    "102.159119"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "FT129 Jalan Pasir Mas Tanah Merah", 
+                "catitan": "", 
+                "id": "7502", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "", 
+                "seksyen": "31 - ", 
+                "tarikh": "24/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "4.837838", 
+                    "101.819916"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "FT185 Jalan Lojing-Pos Blau-Kg. Kuala Betis", 
+                "catitan": "", 
+                "id": "7722", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "FT185", 
+                "seksyen": "119.6 - ", 
+                "tarikh": "25/12/2014  ", 
+                "type": "Tanah Runtuh"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "5.756738", 
+                    "102.076721"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "address": "Jalan Tanah Merah-Kusial-Kg. Ipoh Batu 8", 
+                "catitan": "", 
+                "id": "6902", 
+                "jalan": "", 
+                "nama_img": "", 
+                "name": "D26", 
+                "seksyen": "1.5 - 3", 
+                "tarikh": "18/12/2014  ", 
+                "type": "Banjir"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
